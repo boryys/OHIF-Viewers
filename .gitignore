@@ -1,6 +1,7 @@
 # Packages
 node_modules/*
 !node_modules/react-viewerbase
+!node_modules/react-viewerbase/dist
 
 # Output
 build
