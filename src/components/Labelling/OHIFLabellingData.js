@@ -1,4 +1,4 @@
-const items = [
+/*const items = [
   'Abdomen/Chest Wall',
   'Adrenal',
   'Bladder',
@@ -27,6 +27,19 @@ const items = [
   'Spleen',
   'Stomach',
   'Subcutaneous',
+];*/
+
+const items = [
+  'Zmiana1',
+  'Zmiana2',
+  'Zmiana3',
+  'Zmiana4',
+  'Zmiana5',
+  'Zmiana6',
+  'Zmiana7',
+  'Zmiana8',
+  'Zmiana9',
+  'Zmiana10',
 ];
 
 const OHIFLabellingData = items.map(item => {
